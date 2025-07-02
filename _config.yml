@@ -1,5 +1,8 @@
 title: Kot Karoche
 description: "Стиль жизни, DIY и уютные лайфхаки от кота 🐱"
+url: "https://kotkaroche.github.io/Mahvash"
+author: "Mahvash"
+lang: "ru"
 
 # подключаем remote-тему Architect
 remote_theme: pages-themes/architect@v0.2.0
