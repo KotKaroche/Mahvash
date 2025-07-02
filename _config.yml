@@ -2,7 +2,7 @@ title: Kot Karoche
 description: "Стиль жизни, DIY и уютные лайфхаки от кота 🐱"
 
 # подключаем remote-тему Architect
-remote_theme: pages-themes/architect
+remote_theme: pages-themes/architect@v0.2.0
 
 # отключаем стандартную тему, чтобы не конфликтовала
 theme: null
