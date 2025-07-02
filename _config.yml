@@ -1,0 +1,15 @@
+title: Kot Karoche
+description: "Стиль жизни, DIY и уютные лайфхаки от кота 🐱"
+
+remote_theme: pages-themes/architect@v3
+
+# Опционально: включаем плавающую навигацию сверху (по умолчанию горизонтальная)
+plugins:
+  - jekyll-remote-theme
+
+# Кастомные настройки Architect
+architect:
+  header:
+    background: light
+  footer:
+    info: "© 2025 Mahvash"
