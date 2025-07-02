@@ -11,8 +11,8 @@
 |-----------|--------|
 | Instagram | [@kot.karoche](https://www.instagram.com/kot.karoche) |
 | TikTok    | [@kot.karoche](https://www.tiktok.com/@kot.karoche)   |
-| YouTube   | [@Kot.karoce](https://www.youtube.com/@Kot.karoce)    |
-| Pinterest | [@Kot.karoce](https://ru.pinterest.com/KotKaroche/) |
+| YouTube   | [@Kot.karoche](https://www.youtube.com/@Kot.karoce)    |
+| Pinterest | [@Kot.karoche](https://ru.pinterest.com/KotKaroche/) |
 
 
 
